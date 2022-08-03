@@ -94,7 +94,7 @@ function addFlavor(array, string){
   return array;
  }
 
- console.log('task3:', addflavor(originalFlavors, 'Rainbow Sherbert'));
+ console.log('task3:', addFlavor(originalFlavors, 'Rainbow Sherbert'));
 
 
 
